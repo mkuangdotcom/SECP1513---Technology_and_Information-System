@@ -7,7 +7,8 @@ The course covers Information Systems and Technology (IS/IT) and practical skill
 | Assignment | Description | Reflection |
 |------------|-------------|------------|
 | 1 | POSTER on Industry Talk 1 <br> <br> **Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.** <br> <br> [View Poster](https://drive.google.com/file/d/11kIitiBbtdWUcbzN_ycH5ef9n6QEM_-1/preview) | This talk provided valuable insights into the importance of ICT jobs in the industry. It highlighted various opportunities in the world of technologies and introduced essential applications/tools like Slack, Figma, and Sourcetree for skill development. The talk also emphasized the significance of skills such as time management, communication, and the daily routine of an ICT professional, including situation analysis, front-end development, and code improvement. |
-| 2 | Assignment 2 Description | Assignment 2 Reflection |
+| 2 | Video on Visit To UTMDigital and the Attended Virtual Talk
+ | Assignment 2 Reflection |
 | 3 | Assignment 3 Description | Assignment 3 Reflection |
 | 4 | Assignment 4 Description | Assignment 4 Reflection |
 | 5 | Assignment 5 Description | Assignment 5 Reflection |
