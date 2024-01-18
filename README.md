@@ -11,6 +11,6 @@ The course covers Information Systems and Technology (IS/IT) and practical skill
 | 3 | Report on Industry Talk 2 <br> <br> **System Development @ Credence (TM Subsidiary)** <br> <br> [<button>View Report</button>](https://drive.google.com/file/d/16KiDyFWGlGYGe80WuHSNqDQ7VEt-pU3d/view?usp=sharing) | Ms. Qistina Batrisyia's talk unveiled the intricate landscape of system development, emphasizing its crucial role in informed decision-making through data. Inspired by her insights into data analysis, transformation, and visualization, I am determined to become a proficient system developer. My journey forward involves a commitment to continuous learning, focusing on advanced coursework in database management and data visualization. Seeking hands-on experience through internships and projects, I aim to embrace mentorship opportunities and actively engage in the tech community, fostering adaptability and innovative problem-solving in the evolving realm of data-driven technologies. |
 | 4 | Assignment 4 Description | Assignment 4 Reflection |
 | 5 | Assignment 5 Description | Assignment 5 Reflection |
-| 6 
+
 
 Look at my [ePortfolio Here](https://eportfolio.utm.my/view/view.php?t=YGVegrn9832FSl1DmZMw).
