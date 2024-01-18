@@ -1,17 +1,16 @@
-# SECP1513---Technology-Information-System
+# SECP1513 - Technology Information System
+
 The course covers Information Systems and Technology (IS/IT) and practical skills in PC installation and productivity tools. Topics include hardware, software, networks, communications, internet, multimedia, graphics, and system applications. Students should identify basic IS/IT components and applications by the course end.
 
+## Assignments
 
-| Assignment 1 | Description | Reflection |
-|----------|----------|----------|
-| 1 | Row 1, Col 2 | Row 1, Col 3 |
-| 2 | Row 2, Col 2 | Row 2, Col 3 |
-| 3 | Row 3, Col 2 | Row 3, Col 3 |
-| 4 | Row 4, Col 2 | Row 4, Col 3 |
-| 5 | Row 5, Col 2 | Row 5, Col 3 |
-| 6 | Row 6, Col 2 | Row 6, Col 3 |
+| Assignment | Description | Reflection |
+|------------|-------------|------------|
+| 1 | Industrial Talk | This talk provided valuable insights into the importance of ICT jobs in the industry. It highlighted various opportunities in the world of technologies and introduced essential applications/tools like Slack, Figma, and Sourcetree for skill development. The talk also emphasized the significance of skills such as time management, communication, and the daily routine of an ICT professional, including situation analysis, front-end development, and code improvement. |
+| 2 | Assignment 2 Description | Assignment 2 Reflection |
+| 3 | Assignment 3 Description | Assignment 3 Reflection |
+| 4 | Assignment 4 Description | Assignment 4 Reflection |
+| 5 | Assignment 5 Description | Assignment 5 Reflection |
+| 6 | Assignment 6 Description | Assignment 6 Reflection |
 
-
-
-
-Look out my ePortfolio Here! https://eportfolio.utm.my/view/view.php?t=YGVegrn9832FSl1DmZMw
+Look at my [ePortfolio Here](https://eportfolio.utm.my/view/view.php?t=YGVegrn9832FSl1DmZMw).
