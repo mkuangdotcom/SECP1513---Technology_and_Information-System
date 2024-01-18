@@ -30,4 +30,7 @@ Look at my [ePortfolio](https://eportfolio.utm.my/view/view.php?t=YGVegrn9832FSl
 
 <br> <br>
 ## Reflection
+Throughout this design thinking project, I gained profound insights, especially during the creation of the prototype for our navigation app. It became evident that developing software, particularly for a complex application like a navigation system, isn't a simple task. It demands not just technical skills but also dedication and hard work. Most importantly, it highlighted the significance of teamwork in achieving such goals. Witnessing the intricate process of ideation, designing, and refining the prototype emphasized the collaborative effort required to bring innovative ideas to life.
+This experience was an eye-opener, underscoring the challenges and intricacies involved in software development. It made me realize the immense dedication and persistence required in transforming concepts into tangible, user-friendly applications. The journey with this project sparked a strong aspiration within me. I aspire to further hone my programming skills to a level
+where I can contribute significantly to the creation of a comprehensive smart campus navigation app for UTM or similar institutions in the future. This project instilled in me the determination to continually learn and grow, aiming to be part of future endeavors where technology enhances everyday experiences.
 
