@@ -13,6 +13,5 @@ The course covers Information Systems and Technology (IS/IT) and practical skill
 | 5 | Quiz & PC Assemble | Diving into the realm of putting together my personal computer turned out to be a hands-on adventure that took me right into the heart of the sophisticated machinery fueling our digital existence. Every careful move, from delicately fitting the CPU onto the motherboard to navigating a web of cables and ensuring the perfect airflow, felt like I was constructing the nerve center of my digital haven. It wasn't just about deciphering the technical puzzle of computer assembly; it evolved into a satisfying sense of accomplishment as I watched the system come alive. This hands-on escapade not only polished my technical skills but also sparked a fresh admiration for the hidden wonders within the devices we often overlook. Ultimately, assembling my personal computer became a gratifying and empowering journey, weaving a stronger bond with the technology that intricately shapes our day-to-day encounters. |
 
 <br>
-<br>
 
 Look at my [ePortfolio Here](https://eportfolio.utm.my/view/view.php?t=YGVegrn9832FSl1DmZMw).
