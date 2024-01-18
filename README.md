@@ -29,6 +29,7 @@ In our design thinking project, we undertook the challenge of enhancing the camp
 Look at my [ePortfolio](https://eportfolio.utm.my/view/view.php?t=YGVegrn9832FSl1DmZMw) here.
 
 <br> 
+
 ## Reflection
       
 Throughout this design thinking project, I gained profound insights, especially during the creation of the prototype for our navigation app. It became evident that developing software, particularly for a complex application like a navigation system, isn't a simple task. It demands not just technical skills but also dedication and hard work. Most importantly, it highlighted the significance of teamwork in achieving such goals. Witnessing the intricate process of ideation, designing, and refining the prototype emphasized the collaborative effort required to bring innovative ideas to life.
