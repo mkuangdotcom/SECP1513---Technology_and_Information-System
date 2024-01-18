@@ -23,7 +23,7 @@ In our design thinking project, we undertook the challenge of enhancing the camp
 <br>
 🧑‍💻 View the [Prototype](https://drive.google.com/file/d/1V9ejoUYLr6-m1mdk2G8mA2CpmgihgmAA/view?usp=sharing) here.
 <br>
-🎥 View the [🎥 Video](https://drive.google.com/file/d/1UVodX-4pNKXRNA8boQw-yRgudh4UTcce/view?usp=sharing) here.
+🎥 View the [Video](https://drive.google.com/file/d/1UVodX-4pNKXRNA8boQw-yRgudh4UTcce/view?usp=sharing) here.
 
 
 
