@@ -12,5 +12,7 @@ The course covers Information Systems and Technology (IS/IT) and practical skill
 | 4 | NEWSLETTER on Industrial Talk 3 (Tech-Driven Innovation) <br> <br> **Unleashing the power of emerging technologies for business growth in urban farming solution (I-FARM)** | Dr. Seah's talk on urban farming technology sparked my motivation by showcasing the transformative potential of vertical farming, IoT, and hydroponics. The integration of these innovations not only maximizes space but also ensures fresh, locally sourced produce with real-time monitoring. This approach not only addresses urban agriculture challenges but also promotes sustainability and transparency in food production. The insights gained highlight the positive impact of technology on fostering healthier and more sustainable lifestyles in urban communities. |
 | 5 | Assignment 5 Description | Assignment 5 Reflection |
 
+ <br>
+ <br>
 
 Look at my [ePortfolio Here](https://eportfolio.utm.my/view/view.php?t=YGVegrn9832FSl1DmZMw).
