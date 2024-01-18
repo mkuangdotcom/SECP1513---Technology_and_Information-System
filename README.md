@@ -19,6 +19,6 @@ The course covers Information Systems and Technology (IS/IT) and practical skill
 # Design Thinking Project
 In our design thinking project, we undertook the challenge of enhancing the campus experience for students and faculty at Universiti Teknologi Malaysia (UTM) through the creation of a Smart Campus Navigation App. This innovative solution aimed to address common issues such as navigating the intricate campus layout, disruptions in lectures, uncertainties in bus schedules, safety concerns, and challenges with the existing attendance system. By applying design thinking principles, our team collaboratively empathized with users, defined key problems, ideated creative solutions, created a tangible prototype, and rigorously tested it to ensure an optimal and user-friendly experience. This project reflects our commitment to using technology to improve the everyday lives of the UTM community.
 <br> <br>
-[View Report](https://drive.google.com/file/d/1FlwUk3mxJ1pXZ5iw-37kI74ABhD95X37/view?usp=sharing)
+View the Report here: [Report](https://drive.google.com/file/d/1FlwUk3mxJ1pXZ5iw-37kI74ABhD95X37/view?usp=sharing)
 
 Look at my [ePortfolio Here](https://eportfolio.utm.my/view/view.php?t=YGVegrn9832FSl1DmZMw).
