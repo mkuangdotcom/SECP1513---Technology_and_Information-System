@@ -1,4 +1,4 @@
-# SECP1513 - Technology Information System
+# SECP1513 - Technology & Information System
 
 My name is Foo Ming Kuang. Currently a Computer Science (Software Enginnering) student in  [<button>Universiti Teknologi Malaysia</button>](https://www.utm.my/). Welcome to my resporitory for the course Technology & Information System.
 <br> <br> <br>
