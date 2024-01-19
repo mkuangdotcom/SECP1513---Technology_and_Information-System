@@ -1,6 +1,6 @@
 # SECP1513 - Technology & Information System
 
-My name is Foo Ming Kuang. Currently a Computer Science (Software Enginnering) student in  [<button>Universiti Teknologi Malaysia</button>](https://www.utm.my/). Welcome to my resporitory for the course Technology & Information System.
+My name is Foo Ming Kuang. Currently a Computer Science (Software Enginnering) student in  [<button>Universiti Teknologi Malaysia</button>](https://www.utm.my/). Welcome to my respository for the course Technology & Information System.
 <br> <br> <br>
 The course covers Information Systems and Technology (IS/IT) and practical skills in PC installation and productivity tools. Topics include hardware, software, networks, communications, internet, multimedia, graphics, and system applications. 
 
